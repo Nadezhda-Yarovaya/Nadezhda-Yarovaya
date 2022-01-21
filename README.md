@@ -20,9 +20,15 @@ _Меня вдохновляют:_
 
 \
 контакты:
+\
 Местоположеение: г. Щёлково
+
+
 [Facebook](https://www.facebook.com/nadieyarovaya/)
+\
 [LinkedIn](https://www.linkedin.com/in/nadezhda-iarovaia-17707411b/)
+
+
 
 yarovayanl@gmail.com
 
