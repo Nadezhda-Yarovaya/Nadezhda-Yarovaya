@@ -1,6 +1,3 @@
-***Привет, всем!***
-
-
 Меня зовут Надежда, и я - начинающий веб-разработчик.
 
 _Меня вдохновляют:_
@@ -23,6 +20,9 @@ _Меня вдохновляют:_
 
 \
 контакты:
+Местоположеение: г. Щёлково
+[Facebook](https://www.facebook.com/nadieyarovaya/)
+[LinkedIn](https://www.linkedin.com/in/nadezhda-iarovaia-17707411b/)
 
 yarovayanl@gmail.com
 
