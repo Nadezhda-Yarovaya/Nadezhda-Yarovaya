@@ -20,8 +20,6 @@ _Меня вдохновляют:_
 
 \
 контакты:
-\
-Местоположение: г. Щёлково
 
 
 [Facebook](https://www.facebook.com/nadieyarovaya/)
