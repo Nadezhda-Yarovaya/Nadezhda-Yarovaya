@@ -26,7 +26,6 @@ _Меня вдохновляют:_
 
 
 
-
-yarovayanl@gmail.com
+nadie.yaro@gmail.com
 
 +7 926 700 93 47
