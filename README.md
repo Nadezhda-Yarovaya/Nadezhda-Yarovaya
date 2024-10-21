@@ -1,29 +1,26 @@
-Меня зовут Надежда, и я - начинающий веб-разработчик.
+My name is Nadine, I'm a web-developer. 
 
-_Меня вдохновляют:_
+_I get inspired by:_
 
-* сложные задачи с простым решением (как часто это бывает)
+* complicated taskes with simple solutions
 
-* поиск лучших практик (ответ на вопрос: а как уже эта задача решена?)
+* search for best made practices
 
-* красивые и хитрые решения 
-
-
-
-\
-\
-С превеликим удовольствием делаю проекты на JavaScript и React. 
+* nice and tricky, but working solutions
 
 
 \
-**Инструменты:** JS, React, Wordpress, Node.js, css, Visual Studio Code, git, Webpack 
+\
+I'm in the middle of making projects with JavaScript, React enjoying it
+
 
 \
-контакты:
+**Tools used:** JS, React, Wordpress, Node.js, css, Visual Studio Code, git, Webpack 
 
+\
+Please EN, DE or RU
 
 [Facebook](https://www.facebook.com/nadieyarovaya/)
-
 
 
 nadie.yaro@gmail.com
